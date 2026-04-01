@@ -26,3 +26,11 @@ mongoose
 app.get('/', (req, res) => {
     res.send('Backend is running');
 });
+
+// let database
+
+// module.exports = {
+//     connectToServer: () => {
+//         database = .db
+//     }
+// }
